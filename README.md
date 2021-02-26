@@ -25,6 +25,10 @@
   <img alt="App" src=".github/dsdelivery.png" width="100%">
 </p>
 
+## Acesse agora
+
+:star: [DSDelivery](https://cleyxds-dsdelivery.netlify.app/)
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
